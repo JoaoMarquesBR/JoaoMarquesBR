@@ -1,9 +1,7 @@
 ## Welcome to my Git :)
  <div>
  
- 
-- 😄 Me chamo Fernando Franco. Trabalho na aréa desde 2022!
-- 🌱 Developer Jr. 
+ - 🌱 Developer Jr. 
 - 📫 Email: johnmarques.br2002@gmail.com
 - 📫 Linkedin:
 - 🚀 Currently creating a Web Application project using .NET/SQL/ANGULAR/JS, in case you want to join or get more information just email me
