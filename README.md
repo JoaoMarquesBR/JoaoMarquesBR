@@ -32,7 +32,7 @@
   <img align="center" left="30" alt="feh-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" left="30" alt="feh-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
    
-   [![GitHub Streak](https://streak-stats.demolab.com?user=cailopinheiro&theme=blueberry-duo&hide_border=true&card_width=780&background=45%2C101939%2C1B1A2058&ring=69EBD0E8&currStreakNum=FFFFFF&dates=FFFFFFA5)](https://git.io/streak-stats)
+   [![GitHub Streak](https://streak-stats.demolab.com?user=JoaoMarquesBR&theme=blueberry-duo&hide_border=true&card_width=780&background=45%2C101939%2C1B1A2058&ring=69EBD0E8&currStreakNum=FFFFFF&dates=FFFFFFA5)](https://git.io/streak-stats)
 
    
 </div>
