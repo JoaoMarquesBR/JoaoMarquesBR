@@ -1,12 +1,12 @@
-## Olá! Bem vindo ao meu GitHub !!!
+## Welcome to my Git :)
  <div>
  
  
 - 😄 Me chamo Fernando Franco. Trabalho na aréa desde 2022!
-- 🌱 Desenvolvo em ReactJS e NodeJS, ambos com Typescript
-- 📫 Email: fernandofv1110@gmail.com
-- 📫 Linkedin: https://www.linkedin.com/in/fernandofrancovalle/
-- 🚀 Nos tempos vagos desenvolvo um projeto pessoal no qual visa atender o mercado financeiro, assim desenvolvendo ainda mais minhas habilidades me dedicando aos ambitos do conhecimento dos quais mais tenho afinidade !
+- 🌱 Developer Jr. 
+- 📫 Email: johnmarques.br2002@gmail.com
+- 📫 Linkedin:
+- 🚀 Currently creating a Web Application project using .NET/SQL/ANGULAR/JS, in case you want to join or get more information just email me
  
  ##
  
