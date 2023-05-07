@@ -20,6 +20,6 @@
    
    
    <div> 
-  <a href="https://www.linkedin.com/in/fernando-franco-valle-5799b4204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.linkedin.com/in/fernando-franco-valle-5799b4204](https://www.linkedin.com/in/joão-marques-621b6621b/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 
