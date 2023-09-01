@@ -3,7 +3,7 @@
  
  - 🌱 Developer Jr. 
 - 📫 Email: johnmarques.br2002@gmail.com
-- 📫 Linkedin: https://www.linkedin.com/in/joao-marques-621b6621b/
+- 📫 Linkedin: https://www.linkedin.com/in/joao-marques-621b6621b/](https://www.linkedin.com/in/joao-marques-dev-br/
 - 🚀 Currently creating a Web Application project using .NET/SQL/ANGULAR, in case you want to join or get more information just email me
  
  ##
